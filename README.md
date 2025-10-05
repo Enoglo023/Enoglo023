@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eno Gloria Oyibo
 - 👀 I’m interested in project management / software testing
 - 🌱 I’m currently learning automation testing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Operations Support, Technical Support, Customer Success, Remote and Virtual Projects
 - 📫 How to reach me :
   Email: Enohor4glo@gmail.com
   linkedin.com/in/eno-oyibo-oparah-a2569a156
